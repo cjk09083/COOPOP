@@ -29,5 +29,4 @@
 - 상품, 배송지, 주문, 회원 관리 탭으로 쇼핑몰 관리
 <div align="center" >
 <img src="ScreenShot/관리자페이지/3.%20주문관리.png" width="100%"/>
-<img src="ScreenShot/관리자페이지/2.%20배송지관리.png" width="100%"/>
 </div></br>  
