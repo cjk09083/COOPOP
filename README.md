@@ -22,7 +22,7 @@
 - 메인(HOME), 제품상세정보(PRODUCT), 주문(SHOP), 장바구니등으로 이루어진 쇼핑몰
 - 주문형 네이버페이 API로 연동해서 네이버/COOPOP/비회원 결제를 지원
 <div align="center" >
-<img src="ScreenShot/4.%20SHOP.png" width="100%"/>
+<img src="[ScreenShot/4.%20SHOP.png](https://user-images.githubusercontent.com/87401241/192591120-0caf89b2-02a6-4c7d-a701-78c2747f99fd.png)" width="100%"/>
 </div></br>  
 
 ### 관리 페이지
